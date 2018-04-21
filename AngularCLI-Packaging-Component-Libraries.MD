@@ -21,3 +21,6 @@ Advanced Angular Concepts – Alex Rickabaugh – AngularConnect 2017
 https://www.youtube.com/watch?v=EoSn8qASqQA
 
 https://github.com/robisim74/angular-library-starter
+
+
+https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266
