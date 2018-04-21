@@ -15,7 +15,7 @@ Library should be reusable module, so the user can npm install it like other ang
 ```bash
 npm install my-some-library --save
 ```
-1. package.json 
+1. package file: package.json 
 ```bash
 npm init
 ```
@@ -33,13 +33,42 @@ npm init
 }
 ```
 
-2. module
+2. module file
 3. intellisense enabled
 4. platform independent
-5. form enabled
+5. form enabled - control value accessor interface
 6. AOT enabled
+```bach
+npm install @angular/compilter-cli
+npm install @angular/platform-server
+
+ngc
+tsconfig.json -> tsconfig.aot.json
+```
+
+Don't use the JIT compilter
+NgModule should be statically analyzable 
+- convert your lamba to simple export functions
+- conver default export to named export
+- mark membets accessed from template as public
+- convert dynamic component template to static templates
+- export components explicitly
+- use static selectors
+- be more explicit about what you are using
+include *.metadata.json in your package
+tsc - ngc - .js compiled
+tsc - ngc - .metadata.json
+tsc - ngc - .d.ts
+
 7. packaging
+produce FESM but with caution
+
 8. versioning
+major.minor.patch
+```bash
+npm version [<newversion>] | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
+```
+https://docs.npmjs.com/cli/version
 
 
 
