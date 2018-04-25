@@ -78,3 +78,5 @@ https://docs.npmjs.com/cli/version
 Creating & Publishing Angular (2+) Component Libraries ft. Anas Firdousi
 https://www.youtube.com/watch?v=tZZ8EQnX2cE
 
+10. Shadow DOM 101
+https://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/
