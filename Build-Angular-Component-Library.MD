@@ -80,3 +80,5 @@ https://www.youtube.com/watch?v=tZZ8EQnX2cE
 
 10. Shadow DOM 101
 https://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/
+
+11. https://scotch.io/bar-talk/why-you-shouldnt-necessarily-start-with-a-monolith
