@@ -5,4 +5,6 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&v
 4. Black Knight - Mortgage Web Services: https://mws.lendingsvcs.com/sws/contents/about-mortgagewebservices.jsp
 5. Mortgage Web Services – Frequently Asked Business Questions: https://mws.lendingsvcs.com/sws/contents/faq-business.jsp
 6. https://goo.gl/images/PjA2gg
+7. How mortgage companies are capitalizing on their greatest asset: big data: https://www.housingwire.com/articles/42992-how-mortgage-companies-are-capitalizing-on-their-greatest-asset-big-data?v=preview
+
 
